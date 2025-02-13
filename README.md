@@ -19,6 +19,12 @@ Este proyecto es una aplicación para sortear un AMIGO SECRETO de un listado que
     ```
 3. Abre el archivo index.html en tu navegador.
 
+## Uso
+
+1. Aparece la siguiente pantalla 
+
+![alt text](image.png)
+
 ## Licencia
 
 Este proyecto es de uso libre. ¡Siéntete libre de mejorarlo y compartirlo! 🚀
