@@ -1,17 +1,11 @@
 # Challenge Amigo Secreto
 
-Este proyecto es una aplicación para organizar un juego de "Amigo Secreto" entre amigos o familiares.
+Este proyecto es una aplicación para sortear un AMIGO SECRETO de un listado que previamente hayas ingresado.
 
 ## Características
 
 - Registro de participantes.
 - Asignación aleatoria de amigos secretos.
-- Envío de notificaciones a los participantes.
-
-## Requisitos
-
-- Node.js
-- npm
 
 ## Instalación
 
@@ -23,27 +17,8 @@ Este proyecto es una aplicación para organizar un juego de "Amigo Secreto" entr
     ```bash
     cd challenge-amigo-secreto
     ```
-3. Instala las dependencias:
-    ```bash
-    npm install
-    ```
-
-## Uso
-
-1. Inicia la aplicación:
-    ```bash
-    npm start
-    ```
-2. Abre tu navegador y navega a `http://localhost:3000`.
-
-## Contribución
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva funcionalidad'`).
-4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
+3. Abre el archivo index.html en tu navegador.
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto es de uso libre. ¡Siéntete libre de mejorarlo y compartirlo! 🚀
